@@ -1,5 +1,3 @@
-0. READ--IN THE NAME OF YOUR LORD--OTHER PEOPLE'S SOURCE CODE!!!
-
 1. Be certain that you already have the most up-to-date kernel before you start working!
 
 2. BUY A BACKUP HARD DISK. They will save you when a kernel update accidentially bricks your system.
@@ -13,11 +11,4 @@
 6. When submittting patches in plain text generated with "diff -up" inline in
 
 plain-text email. No HTML mails. No attachments allowed. Plain ASCII-Text.
-
-Your job is improve the Linux Kernel's support for ASLR--for now.
-
-Eventually, you plan to add ASLP support to the Linux Kernel.
-
-A student admitted it is better to use the bug-finding tools to fix errors. Evetually, those tools will fail you. Get in the habit of making your own bug-finding binary hacking tools.
-
 
