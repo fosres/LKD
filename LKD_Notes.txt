@@ -41,4 +41,9 @@ https://elinux.org/images/2/24/Write-and-submit-your-first-Linux-kernel-patch-gr
 
 https://opensource.com/article/18/8/first-linux-kernel-patch
 
+Goal: Your job is to establish an online communication with fellow Linux Kernel Developers that are interested in maintaining ASLR.
+
+These are your dominoes:
+
+1. Submit your first Linux Kernel Patch. Even something as simple as two lines of code. Perhaps you can focus on coding stylep problems. Perhaps you can focus on the TODO list. Perhaps you can focus on insecure coding practices.
 
