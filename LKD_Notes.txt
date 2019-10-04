@@ -1,4 +1,10 @@
+
+ADVICE FOCUS ON CHANGING ONLY ONE OR TWO LINES FOR THE FIRST PATCH!
+
 0. READ--IN THE NAME OF YOUR LORD--OTHER PEOPLE'S SOURCE CODE!!!
+
+0.5. ADVICE: Run Linux natively on your machine
+
 
 1. Be certain that you already have the most up-to-date kernel before you start working!
 
@@ -24,5 +30,9 @@ https://opensource.com/article/18/4/submitting-my-first-patch-linux-kernel
 
 
 It is better to explore and experiment with the code directly than to read books on Linux Kernel Development.
+
+7. Start by reading FirstKernelPatch:
+
+https://kernelnewbies.org/FirstKernelPatch
 
 
