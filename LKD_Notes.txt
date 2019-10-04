@@ -35,4 +35,10 @@ It is better to explore and experiment with the code directly than to read books
 
 https://kernelnewbies.org/FirstKernelPatch
 
+You can also read Greg-Kroah Hartman's advice:
+
+https://elinux.org/images/2/24/Write-and-submit-your-first-Linux-kernel-patch-gregkh.pdf
+
+https://opensource.com/article/18/8/first-linux-kernel-patch
+
 
