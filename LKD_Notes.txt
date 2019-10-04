@@ -18,6 +18,11 @@ Your job is improve the Linux Kernel's support for ASLR--for now.
 
 Eventually, you plan to add ASLP support to the Linux Kernel.
 
-A student admitted it is better to use the bug-finding tools to fix errors. Evetually, those tools will fail you. Get in the habit of making your own bug-finding binary hacking tools.
+A student admitted it is better to use the bug-finding tools to fix errors. Eventually, those tools will fail you. Get in the habit of making your own bug-finding binary hacking tools.
+
+https://opensource.com/article/18/4/submitting-my-first-patch-linux-kernel
+
+
+It is better to explore and experiment with the code directly than to read books on Linux Kernel Development.
 
 
